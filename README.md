@@ -3,14 +3,5 @@
 
 **jaovit/jaovit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... sla
-- 🌱 I’m currently learning ... sla
-- 👯 I’m looking to collaborate on ...sla
-- 🤔 I’m looking for help with ... sla
-- 💬 Ask me about ... sla
-- 📫 How to reach me: ... sla
-- 😄 Pronouns: ... sla
-- ⚡ Fun fact: ... sla
+Era uma vez um elfo encantado que morava num pé de caqui, em cima dele um doende safado que vivia fazendo pipi, um dia o elfo se aborreceu e na porta do doende bateu, foi nessa ocasião que os dois se cassaram e morreram atropelado!!!!
 
